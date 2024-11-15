@@ -1,5 +1,3 @@
-langchain
-chromadb
-pypdf
-pytest
-langchain-community
+ ( 2 * "Output layer@2" - "Output layer@1" - "Output layer@3" )  /  ( "Output layer@1" + "Output layer@2" + "Output layer@3" )  
+
+("ndvi prob@1">0.1)
